@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tmnt quiz</string>
+    <string name="action_settings">There are no extra settings to love!</string>
+    <string name="display_text">This is from the strings.xml file</string>
+
+<!-- BUTTONS -->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next question</string>
+
+<!-- TOASTS -->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Wrong :|</string>
+
+<!-- QUESTIONS -->
+    <string name="question_01">There are four ninja turtles.</string>
+    <string name="question_02">Turtles are reptiles.</string>
+    <string name="question_03">The ninja turtles are masters of Taekwondo</string>
+    <string name="question_04">Pizza is the food that\'s sure to please.</string>
+
+</resources>
