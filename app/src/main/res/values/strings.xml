@@ -4,18 +4,20 @@
     <string name="display_text">This is from the strings.xml file</string>
 √
 <!-- BUTTONS -->
-    <string name="true_button">True</string>
-    <string name="false_button">False</string>
-    <string name="next_button">Next question</string>
+    <string name="blue_button">Blue</string>
+    <string name="red_button">Red</string>
+    <string name="orange_button">Orange</string>
+    <string name="purple_button">Purple</string>
+    <string name="next_button">Next, please</string>
 
 <!-- TOASTS -->
-    <string name="correct_toast">Correct!</string>
-    <string name="incorrect_toast">Wrong :|</string>
+    <string name="correct_toast">Cowabunga! Totally right :D</string>
+    <string name="incorrect_toast">What are you, the foot clan? WRONG!!</string>
 
 <!-- QUESTIONS -->
-    <string name="question_01">There are four ninja turtles.</string>
-    <string name="question_02">Turtles are reptiles.</string>
-    <string name="question_03">The ninja turtles are masters of Taekwondo</string>
-    <string name="question_04">Pizza is the food that\'s sure to please.</string>
+    <string name="question_01">What is Leo\'s color?</string>
+    <string name="question_02">What is Raph\'s color?</string>
+    <string name="question_03">What is Mike\'s color?</string>
+    <string name="question_04">What is Don\'s color?</string>
 
 </resources>
