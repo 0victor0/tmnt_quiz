@@ -6,25 +6,27 @@ package none.laforge.tmntquiz;
 
 public class Question {
 
-    private int mTextResId;         // member variable, hence the m
-    private boolean mAnswerTrue;    // member variable, hence the m
+    private int mTextResId;     // member variable, hence the m
+    private String mAnswerTrue;    // member variable, hence the m
 
-    public Question(int textResId, boolean answerTrue) {
+    public Question(int textResId, String answerTrue) {
         mTextResId = textResId;
         mAnswerTrue = answerTrue;
     }
 
-    public boolean isAnswerTrue() {                     //getter
+    public String isAnswerTrue() {                      //getter
         return mAnswerTrue;
     }
-    public int getTextResId() {                         //getter
+    public int getTextResId() {                      //getter
         return mTextResId;
     }
-    public void setTextResId(int textResId) {           //setter
+    public void setTextResId(int textResId) {        //setter
         mTextResId = textResId;
     }
-    public void setAnswerTrue(boolean answerTrue) {     //setter
+    public void setAnswerTrue(String answerTrue) {      //setter
         mAnswerTrue = answerTrue;
     }
 
 }
+
+
