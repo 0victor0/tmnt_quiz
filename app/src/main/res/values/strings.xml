@@ -2,7 +2,7 @@
     <string name="app_name">Tmnt quiz</string>
     <string name="action_settings">There are no extra settings to love!</string>
     <string name="display_text">This is from the strings.xml file</string>
-
+√
 <!-- BUTTONS -->
     <string name="true_button">True</string>
     <string name="false_button">False</string>
